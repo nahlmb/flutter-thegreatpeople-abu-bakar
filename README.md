@@ -1,7 +1,8 @@
-# abu_bakar
+# THE GREAT PEOPLE : abu_bakar
+Abu Bakar the greatest prophet companion, he was the number people of the ummmah of Prophet shallallu'alaihi wasalam.
+Here is flutter app of Abu Bakar Biography
 
-A new Flutter project.
-
+![image info](assets/images/app.jpeg)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
